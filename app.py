@@ -5,7 +5,7 @@ st.set_page_config(page_title="Password Strength Checker" ,page_icon="🔐")
 
 st.title("🔐 Password Strength Checker ")
 
-st.markdown( ''' ## Welcome to the Password Strength chacker tools🛠
+st.markdown( ''' ## Welcome to the Password Strength chacker 🛠
 use this simple tool for chack your passwrod strength  '''  )
 
 password = st.text_input("Enter Your Password", type="password")
